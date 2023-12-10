@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a code to split data (70:30) into training dataset and test dataset using python language","md5":"42530c9af2267daaa59c1326ec1891ba"}]}
